@@ -56,3 +56,4 @@ gem 'materialize-sass'
 gem 'jquery-rails'
 gem 'devise'
 #gem 'mysql2'
+gem "figaro"

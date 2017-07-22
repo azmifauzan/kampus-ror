@@ -1,6 +1,7 @@
 @import "materialize/components/color";
 $primary-color: color("cyan", "lighten-3") !default;
 @import "materialize";
+@import "toastr";
 @import "https://fonts.googleapis.com/icon?family=Material+Icons";
 
 body {

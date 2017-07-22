@@ -58,3 +58,4 @@ gem 'devise'
 #gem 'mysql2'
 gem "figaro"
 gem "omniauth-facebook"
+gem 'toastr-rails'
